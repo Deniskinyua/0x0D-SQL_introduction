@@ -26,6 +26,7 @@
 ## Tasks
 |----|----|
 |File| Description|
+|---|---|
 |`0-list_databases.sql`| Write a script that lists all databases of your MYSQL server|
 |`1-create_database_if_missing.sql`| Write a script that creates a database `hbtn_0c+0` in your MYSQL server; ( -> If the database already exists, your script should not fail; -> You are not allowed to use the `SELECT` or `SHOW` statements)|
 |`2-remove_database.sql`|Write a script that deletes the database `hbtn+0c+0` in your MYSQL server (-> If the database does not exist, your script should not fail; -> you are not allowed to use the `select` and `SHOW` statements)|
